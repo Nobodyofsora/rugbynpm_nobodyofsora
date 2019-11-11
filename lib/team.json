@@ -1,0 +1,168 @@
+    {
+        "All_Blacks": [
+            {
+                "name": "Dane",
+                "surname": "Coles",
+                "role": "Hooker"
+            },
+            {
+                "name": "Liam",
+                "surname": "Coltman",
+                "role": "Hookerd"
+            },
+            {
+                "name": "Codie",
+                "surname": "Taylor",
+                "role": "Hooker"
+            },
+            {
+                "name": "Nepo",
+                "surname": "Laulala",
+                "role": "Prop"
+            },
+            {
+                "name": "Joe",
+                "surname": "Moody",
+                "role": "Prop"
+            },
+            {
+                "name": "Atu",
+                "surname": "Moli",
+                "role": "Prop"
+            },
+            {
+                "name": "Angus",
+                "surname": "Ta'avao",
+                "role": "Prop"
+            },
+            {
+                "name": "Ofa",
+                "surname": "Tu'ungafasi",
+                "role": "Prop"
+            },
+            {
+                "name": "Scott",
+                "surname": "Barrett",
+                "role": "Lock"
+            },
+            {
+                "name": "Brodie",
+                "surname": "Retallick",
+                "role": "Lock"
+            }
+        ],
+        "WRU": [
+            {
+                "name": "Elliot",
+                "surname": "Dee",
+                "role": "Hooker"
+            },
+            {
+                "name": "Rhys ",
+                "surname": "Carré",
+                "role": "Prop"
+            },
+            {
+                "name": "Jake",
+                "surname": "Ball",
+                "role": "Lock"
+            },
+            {
+                "name": "James",
+                "surname": "Davies",
+                "role": "Back-row"
+            },
+            {
+                "name": "Ross",
+                "surname": "Moriarty",
+                "role": "Back-row"
+            },
+            {
+                "name": "Josh",
+                "surname": "Navidi",
+                "role": "Back-row"
+            },
+            {
+                "name": "Aaron",
+                "surname": "Shingler",
+                "role":"Back-row"
+            },
+            {
+                "name": "Aled",
+                "surname": "Davies",
+                "role": "Scrum-half"
+            },
+            {
+                "name": "Dan",
+                "surname": "Biggar",
+                "role": "Centre"
+            },
+            {
+                "name": "Jonathan",
+                "surname": "Davies",
+                "role": "att"
+            },
+            {
+                "name": "Josh",
+                "surname": "Adams ",
+                "role": "Wing"
+            }
+        ],
+        "Springboks": [
+            {
+                "name": "Schalk",
+                "surname": "Brits",
+                "role": "Hooker"
+            },
+            {
+                "name": "Thomas",
+                "surname": "du Toit",
+                "role": "Prop"
+            },
+            {
+                "name": "Lood",
+                "surname": "de Jager",
+                "role": "Lock"
+            },
+            {
+                "name": "Siya",
+                "surname": "Kolisi",
+                "role": "Loose forward"
+            },
+            {
+                "name": "Faf",
+                "surname": "de Klerk",
+                "role": "Scrum-half"
+            },
+            {
+                "name": "Elton",
+                "surname": "Jantjies",
+                "role": "Fly-half"
+            },
+            {
+                "name": "Lukhanyo",
+                "surname": "Am",
+                "role": "Centre"
+            },
+            {
+                "name": "Cobu",
+                "surname": "Reinach",
+                "role": "Scrum-half"
+            },
+            {
+                "name": "Warrick",
+                "surname": "Gelant",
+                "role": "Fullback"
+            },
+            {
+                "name": "Cheslin",
+                "surname": "Kolbe",
+                "role": "Wing"
+            },
+            {
+                "name": "Willie",
+                "surname": "le Roux",
+                "role": "Fullback"
+            }
+        ]
+    }

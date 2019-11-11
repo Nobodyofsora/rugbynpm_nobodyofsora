@@ -1,0 +1,25 @@
+{
+  "name": "rugbynpm_nobodyofsora",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "src",
+  "scripts": {
+    "start": "node lib/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc -p .",
+    "test": "npm run build; mocha lib/test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "nodemon": "^1.19.4",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
